@@ -1,6 +1,8 @@
 
 body {
     background-color: #fcdcec;
+    min-width: 1200px; 
+    overflow-x: auto;
 }
 
 
